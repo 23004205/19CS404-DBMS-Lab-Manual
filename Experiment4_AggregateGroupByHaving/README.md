@@ -1,5 +1,5 @@
 # Experiment 4: Aggregate Functions, Group By and Having Clause
-## NAME:P G KUSHALI
+## NAME:SINGAMALA VENKATA SAI KUMAR REDDY
 ## REG NO:212223230208
 
 ## AIM
