@@ -1,6 +1,6 @@
 # Experiment 3: DML Commands
 ## NAME:SINGAMALA VENKATA SAI KUMAR REDDY
-## 212223230208
+## REG NO: 212223230208
 ## AIM
 To study and implement DML (Data Manipulation Language) commands.
 
